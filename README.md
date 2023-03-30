@@ -1,4 +1,4 @@
-![Logo UNAHUR](./assets/UNAHUR.png)
+![Logo Messi](fotomessi.jpg)
 
 Bienvenidos a
 # Programación con objetos I
