@@ -1,4 +1,4 @@
-![Logo Messi](fotomessi.jpg)
+![Logo Messi](/assets/UNAHUR.png)
 
 Bienvenidos a
 # Programación con objetos I
